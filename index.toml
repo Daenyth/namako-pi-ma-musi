@@ -71,6 +71,11 @@ hash = "e0a37310ea388586039b4ef1f79885931970aa505aec2215d6de95fbec319259"
 metafile = true
 
 [[files]]
+file = "mods/just-player-heads.pw.toml"
+hash = "4de678c7f399c873b3ab0ee8c2085418d2379537a8d16e9a9f52d01b4abc0013"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "408bba556516e21cfa25674fabca2e1da87f7db700a7b88c2cdf1025414b39a1"
 metafile = true
