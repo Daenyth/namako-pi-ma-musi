@@ -99,3 +99,8 @@ metafile = true
 file = "mods/puzzles-lib.pw.toml"
 hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
+
+[[files]]
+file = "mods/shulker-drops-two.pw.toml"
+hash = "7a15de38822f38f9aa745dccc841f572c692f29e642b0789f944c7eb38a09798"
+metafile = true
