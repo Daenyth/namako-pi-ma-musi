@@ -111,6 +111,11 @@ hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]
+file = "mods/reacharound.pw.toml"
+hash = "afedc35545eb5be295caee5e0cac50de9941e4487a1a78d54ead98cc69110843"
+metafile = true
+
+[[files]]
 file = "mods/shulker-drops-two.pw.toml"
 hash = "7a15de38822f38f9aa745dccc841f572c692f29e642b0789f944c7eb38a09798"
 metafile = true
