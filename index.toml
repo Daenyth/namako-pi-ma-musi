@@ -166,6 +166,11 @@ hash = "135bc946a52da94a866626b73e7b4ed3352aaeac1223dd08260250eb2e6cac23"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "7f67f250f1ac5f71b62d9682db7e99fc1652271ad574dce12a295ab148cc8e2c"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-trades.pw.toml"
 hash = "253d24d518bf1c952361a25e91d1c80d0c30f83a47c8a94a05bdf8d51a6e97a9"
 metafile = true
