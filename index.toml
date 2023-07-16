@@ -126,6 +126,11 @@ hash = "7a15de38822f38f9aa745dccc841f572c692f29e642b0789f944c7eb38a09798"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "442827f804bf0c72a73f4b4948875908a997821b77e35de9d4af7d37f1c7f0f1"
+metafile = true
+
+[[files]]
 file = "mods/switchy.pw.toml"
 hash = "1bfbc93e42bb92f361187dd77c51d85d3cac6c5f8773644080eac19b9c1d5ee7"
 metafile = true
