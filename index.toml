@@ -26,6 +26,11 @@ hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
 
 [[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "4023debbe53b41b1326ebbd477c5bafb97c3d03823cea379ee86009a801d5bf5"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
 metafile = true
@@ -198,4 +203,9 @@ metafile = true
 [[files]]
 file = "mods/switchy.pw.toml"
 hash = "1bfbc93e42bb92f361187dd77c51d85d3cac6c5f8773644080eac19b9c1d5ee7"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
