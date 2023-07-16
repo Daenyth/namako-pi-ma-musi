@@ -96,11 +96,26 @@ hash = "f1468e8f5402ddd2d1f26c679317e536b34ba63250353334e6accc51cfc3a90e"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
 
 [[files]]
+file = "mods/qsl.pw.toml"
+hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+metafile = true
+
+[[files]]
 file = "mods/shulker-drops-two.pw.toml"
 hash = "7a15de38822f38f9aa745dccc841f572c692f29e642b0789f944c7eb38a09798"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "1bfbc93e42bb92f361187dd77c51d85d3cac6c5f8773644080eac19b9c1d5ee7"
 metafile = true
