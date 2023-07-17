@@ -146,6 +146,11 @@ hash = "8cd263da2b2ee411248ffce02ff8653c945aa5fbd55010ef603b14e72498a329"
 metafile = true
 
 [[files]]
+file = "mods/increased-rails-recipe-output.pw.toml"
+hash = "1cf13c81c6ee46f890a095947734386b938a3352026749da68392d12068bd066"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "e7a7d29edcf007971a3cf62c5cb6931d040a1411d2ea2739082fe0fafda792cb"
 metafile = true

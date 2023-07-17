@@ -1,0 +1,13 @@
+name = "Increased Rails Recipe Output"
+filename = "increased-rails-recipe-output-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gcXgGZ7R/versions/sxlHYW05/increased-rails-recipe-output-1.0.jar"
+hash-format = "sha1"
+hash = "e53aef7b9b45e6d2bbfafe73b5a8f62de9225b94"
+
+[update]
+[update.modrinth]
+mod-id = "gcXgGZ7R"
+version = "sxlHYW05"
