@@ -251,6 +251,11 @@ hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
+file = "mods/phantom-redux.pw.toml"
+hash = "477697ed1df090a2b3c9e9b6aa55c8797f880dee16e047704c7817ae73a6dea3"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
