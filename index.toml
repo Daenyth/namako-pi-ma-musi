@@ -36,6 +36,11 @@ hash = "4023debbe53b41b1326ebbd477c5bafb97c3d03823cea379ee86009a801d5bf5"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
 metafile = true
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "968dfd85b79d8c3efd84f291dfaef6401fef5c144e37189a7872e294c290c25a"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
