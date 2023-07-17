@@ -196,6 +196,11 @@ hash = "6cb50f4dcb3f6ba70ecbae01c0691b25fb40610a859aa41bf6ce261ad70429d2"
 metafile = true
 
 [[files]]
+file = "mods/jumpprooffarmland.pw.toml"
+hash = "7b1e0a44b0d243b0b8d42c3bf2e42758e8d497891dec4ff546edb812f60b4fe4"
+metafile = true
+
+[[files]]
 file = "mods/just-mob-heads.pw.toml"
 hash = "e0a37310ea388586039b4ef1f79885931970aa505aec2215d6de95fbec319259"
 metafile = true

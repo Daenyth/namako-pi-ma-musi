@@ -1,0 +1,13 @@
+name = "Jump-proof Farmland"
+filename = "jumpprooffarmland-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G4rUm6EA/versions/BKyUxAjM/jumpprooffarmland-1.19.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "3086234a43b4cb80cccbebb3dbcd89e424694f50"
+
+[update]
+[update.modrinth]
+mod-id = "G4rUm6EA"
+version = "BKyUxAjM"
