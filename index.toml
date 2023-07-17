@@ -96,6 +96,11 @@ hash = "a33666d7424e8a534e9b7bf77da1d19b5091c6a4e974811f86833677a907dbbd"
 metafile = true
 
 [[files]]
+file = "mods/explorify.pw.toml"
+hash = "b6a43638d6f3e40db516964ba9fa1dcdbe2851d3b39b1a91a977eefc7f237480"
+metafile = true
+
+[[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "50677286a9f1a8f0aaf18a6d8cf41cf9a5f5efd037c57e696ef5392324393d35"
 metafile = true
@@ -273,4 +278,14 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "e8036308d5fdaf3e155684892dffa19122c31745c40fbe55027a1677179263d7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "db24b9f5262599c4a358be6e80e78a9fc0e4ad46b4dd00435aca9f76a60d7ca0"
 metafile = true
