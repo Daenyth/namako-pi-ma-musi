@@ -121,6 +121,11 @@ hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
 metafile = true
 
 [[files]]
+file = "mods/immersive-structures.pw.toml"
+hash = "8cd263da2b2ee411248ffce02ff8653c945aa5fbd55010ef603b14e72498a329"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "e7a7d29edcf007971a3cf62c5cb6931d040a1411d2ea2739082fe0fafda792cb"
 metafile = true
