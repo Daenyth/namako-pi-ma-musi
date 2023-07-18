@@ -321,6 +321,11 @@ hash = "253d24d518bf1c952361a25e91d1c80d0c30f83a47c8a94a05bdf8d51a6e97a9"
 metafile = true
 
 [[files]]
+file = "mods/serversleep.pw.toml"
+hash = "18ef9ed32b347bee4e121c66c8bd88459bd21cb3c83a7d8c3f222ad9e45a67d6"
+metafile = true
+
+[[files]]
 file = "mods/shulker-drops-two.pw.toml"
 hash = "7a15de38822f38f9aa745dccc841f572c692f29e642b0789f944c7eb38a09798"
 metafile = true
