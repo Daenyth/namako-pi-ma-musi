@@ -156,6 +156,11 @@ hash = "50677286a9f1a8f0aaf18a6d8cf41cf9a5f5efd037c57e696ef5392324393d35"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "423581d9738b23798456b7ba021698355ef8f03cef93d8c1266102a227d9a200"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "ee9ec8acfb96b060f3caae3172651436f8388c39db630ba9a7112b8d0f290746"
 metafile = true
