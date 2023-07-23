@@ -376,6 +376,11 @@ hash = "253d24d518bf1c952361a25e91d1c80d0c30f83a47c8a94a05bdf8d51a6e97a9"
 metafile = true
 
 [[files]]
+file = "mods/sdlink.pw.toml"
+hash = "c032c0eb02812ee01c6ba3a149ce8703c968788a13a7f8c18055defbf92d4f96"
+metafile = true
+
+[[files]]
 file = "mods/serversleep.pw.toml"
 hash = "18ef9ed32b347bee4e121c66c8bd88459bd21cb3c83a7d8c3f222ad9e45a67d6"
 metafile = true
