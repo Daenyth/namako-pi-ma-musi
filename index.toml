@@ -21,6 +21,11 @@ hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "5ed702367e498efec1eb02046d9f0ebbb5aadff4b4cf4ee84488e62ae7829f25"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "8819e68ae91bcffd6cdee453443a8b939892a229f78cbd114e3e594faaa491ff"
 metafile = true
@@ -383,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "442827f804bf0c72a73f4b4948875908a997821b77e35de9d4af7d37f1c7f0f1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "82cee97a841fa3d0e8dd2d73a0161c032acf8ad1033f052044990ac1a45a4e9b"
 metafile = true
 
 [[files]]
