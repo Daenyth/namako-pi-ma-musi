@@ -1,0 +1,13 @@
+name = "Maple"
+filename = "maple-1.19.2-0.3.0-Beta2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f72LiOZm/versions/wBvpiCJp/maple-1.19.2-0.3.0-Beta2.jar"
+hash-format = "sha1"
+hash = "9a142b23a51bcf9f45f4f96c55dabb9211be0709"
+
+[update]
+[update.modrinth]
+mod-id = "f72LiOZm"
+version = "wBvpiCJp"
