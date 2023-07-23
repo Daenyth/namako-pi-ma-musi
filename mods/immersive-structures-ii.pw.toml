@@ -1,0 +1,13 @@
+name = "Immersive Structures II: Nether edition"
+filename = "[Universal]Immersive_Structure_Nether_v1.0.0b.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fECIioDQ/versions/1NBeRr6k/%5BUniversal%5DImmersive_Structure_Nether_v1.0.0b.jar"
+hash-format = "sha1"
+hash = "c6e5d2ed304ee99f3e76a2cd9c4af0865c25e21a"
+
+[update]
+[update.modrinth]
+mod-id = "fECIioDQ"
+version = "1NBeRr6k"

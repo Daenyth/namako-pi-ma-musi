@@ -161,6 +161,11 @@ hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
 metafile = true
 
 [[files]]
+file = "mods/immersive-structures-ii.pw.toml"
+hash = "3e2e2bdc9a9fe447573dcdedbeee8c1046344b7cc4ae2d8383c5e1229b57306f"
+metafile = true
+
+[[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "8cd263da2b2ee411248ffce02ff8653c945aa5fbd55010ef603b14e72498a329"
 metafile = true
