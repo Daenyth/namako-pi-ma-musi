@@ -61,11 +61,6 @@ hash = "4023debbe53b41b1326ebbd477c5bafb97c3d03823cea379ee86009a801d5bf5"
 metafile = true
 
 [[files]]
-file = "mods/charm.pw.toml"
-hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
 metafile = true
