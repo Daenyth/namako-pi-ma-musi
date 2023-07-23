@@ -121,6 +121,11 @@ hash = "dc8b488ec2e5320d9451e88db0c6f6e4339ad5cda64fb8d589e5a471c69ffe6a"
 metafile = true
 
 [[files]]
+file = "mods/dynamicsurroundings_remasteredfabric.pw.toml"
+hash = "4d67ab760c17564b2918606dc6cd6944b2b4630c6d147c2ba8989ad932fd73f1"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
 metafile = true
