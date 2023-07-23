@@ -61,6 +61,11 @@ hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "9b995af454d8e7458cb2862c25f2e8c75f623aacaad97a6e810d3b9d12024394"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
 metafile = true
