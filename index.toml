@@ -256,6 +256,11 @@ hash = "f1468e8f5402ddd2d1f26c679317e536b34ba63250353334e6accc51cfc3a90e"
 metafile = true
 
 [[files]]
+file = "mods/myloot.pw.toml"
+hash = "777a1bf2e8385c726a6d13853042bb292d40538f5db76bff26c6c135e1d0645f"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
@@ -343,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "442827f804bf0c72a73f4b4948875908a997821b77e35de9d4af7d37f1c7f0f1"
+metafile = true
+
+[[files]]
+file = "mods/spoornpacks.pw.toml"
+hash = "3abe75fd690b76a160320df05906397a7bf2091ee600f4f825127c5b6f5d05a1"
 metafile = true
 
 [[files]]
