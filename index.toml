@@ -301,6 +301,11 @@ hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
+file = "mods/paper-books.pw.toml"
+hash = "a7fabbd21e892f8cd3a0e95f1b9afffbad5eee850332dc1b11fb943717b6304a"
+metafile = true
+
+[[files]]
 file = "mods/phantom-redux.pw.toml"
 hash = "477697ed1df090a2b3c9e9b6aa55c8797f880dee16e047704c7817ae73a6dea3"
 metafile = true

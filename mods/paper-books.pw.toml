@@ -1,0 +1,13 @@
+name = "Paper Books"
+filename = "paperbooks-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QM2wt9X3/versions/5bjld48F/paperbooks-1.19.2-3.0.jar"
+hash-format = "sha1"
+hash = "3c156a4937b3f61559862f0200dcb515abaae1f5"
+
+[update]
+[update.modrinth]
+mod-id = "QM2wt9X3"
+version = "5bjld48F"
