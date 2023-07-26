@@ -291,6 +291,11 @@ hash = "f1468e8f5402ddd2d1f26c679317e536b34ba63250353334e6accc51cfc3a90e"
 metafile = true
 
 [[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "aa2e9887f3e7716b653b69c97d2a475d9be64da1a364d98cce3ea5685ffafba8"
+metafile = true
+
+[[files]]
 file = "mods/myloot.pw.toml"
 hash = "777a1bf2e8385c726a6d13853042bb292d40538f5db76bff26c6c135e1d0645f"
 metafile = true
