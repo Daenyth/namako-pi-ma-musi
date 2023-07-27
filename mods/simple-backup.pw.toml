@@ -1,0 +1,13 @@
+name = "Simple Backup"
+filename = "simplebackup-1.3.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ma6PaAnr/versions/6F96XQUZ/simplebackup-1.3.7.jar"
+hash-format = "sha1"
+hash = "02792b795130177d8a20b5e4cd9ec1b105c8016b"
+
+[update]
+[update.modrinth]
+mod-id = "ma6PaAnr"
+version = "6F96XQUZ"
