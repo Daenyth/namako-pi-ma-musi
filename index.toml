@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "6cb50f4dcb3f6ba70ecbae01c0691b25fb40610a859aa41bf6ce261ad70429d2"
+hash = "d1df8e86811120c594a88895d3366d000736a6c1fad7124a72c8f05925775095"
 metafile = true
 
 [[files]]
