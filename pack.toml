@@ -1,12 +1,12 @@
 name = "namako pi ma musi"
 author = "jan Deni"
-version = "0.1.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3291e081649c23523765065a1af0539d6d92d8c4bf05db620f34e6586585f0fb"
+hash = "0120fa6e0cd9596bd5f9c3e86a5dc52abe21d4a388ab150c08d20dcdd6b5c620"
 
 [versions]
 minecraft = "1.19.2"
