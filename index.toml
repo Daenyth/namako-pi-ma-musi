@@ -340,6 +340,11 @@ hash = "b4431b2a14519455d564ec3105a7a603a88f4820a12c92ab48081474a20936e6"
 metafile = true
 
 [[files]]
+file = "mods/pure-discs-trails-tales.pw.toml"
+hash = "1981b67a0683474dee030a2bafbb123c8a09a7b458e359a8abcd88a4869668ed"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true

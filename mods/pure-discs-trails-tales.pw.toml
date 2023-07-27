@@ -1,0 +1,13 @@
+name = "Pure Discs - Trails & Tales"
+filename = "PureDiscsTrailsTales-v1.0.0-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iSN6eXzl/versions/mjEgSRbQ/PureDiscsTrailsTales-v1.0.0-1.19.2-Fabric.jar"
+hash-format = "sha1"
+hash = "9eb7c8ba6394aeeeba46aceb6271c56e5ae1a3c0"
+
+[update]
+[update.modrinth]
+mod-id = "iSN6eXzl"
+version = "mjEgSRbQ"
