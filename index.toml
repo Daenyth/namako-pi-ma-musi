@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/gliders.pw.toml"
-hash = "5f0e2ce4368ef14102028c70ee165aaac28c147c062ea61ca99b84e3e8d24836"
+hash = "ed475ccacc9fd35f5240d886ba3bd926affe58159711a19a799ee37ae3fda805"
 metafile = true
 
 [[files]]
