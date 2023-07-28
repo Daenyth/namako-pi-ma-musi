@@ -155,6 +155,11 @@ hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "a33666d7424e8a534e9b7bf77da1d19b5091c6a4e974811f86833677a907dbbd"
 metafile = true
