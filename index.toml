@@ -140,6 +140,11 @@ hash = "dc8b488ec2e5320d9451e88db0c6f6e4339ad5cda64fb8d589e5a471c69ffe6a"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
 file = "mods/dynamicsurroundings_remasteredfabric.pw.toml"
 hash = "4d67ab760c17564b2918606dc6cd6944b2b4630c6d147c2ba8989ad932fd73f1"
 metafile = true
