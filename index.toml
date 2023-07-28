@@ -40,6 +40,11 @@ hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.pw.toml"
+hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
+metafile = true
+
+[[files]]
 file = "mods/better-potion-visuals.pw.toml"
 hash = "ebeea194b3e59b0f268d7e6a7554c5d02c9be9e66f1f49d3a0e0d5d03c13c374"
 metafile = true
