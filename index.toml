@@ -500,6 +500,11 @@ hash = "f654610913c71707c677cc4f592eac8bf4bade51138692b6d78f994ccffb6ba1"
 metafile = true
 
 [[files]]
+file = "mods/switchy-teleport.pw.toml"
+hash = "45cfb1774eee4ece0713fa6351538bb20f6d380a8caa33cc354af825c77f2765"
+metafile = true
+
+[[files]]
 file = "mods/switchy.pw.toml"
 hash = "bcbe89f2483562b3ab00294f533f6f1a5f4eafbe1ae2e54eedaa0bce4c4c7a33"
 metafile = true
