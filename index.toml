@@ -485,6 +485,11 @@ hash = "3abe75fd690b76a160320df05906397a7bf2091ee600f4f825127c5b6f5d05a1"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "70da594f4eadb175c7eedd58ec67caeffb71ac5fc8c503fcddf04e545e78e590"
+metafile = true
+
+[[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "d0cd4b1f936b73cbe367ccc74c325688bb5aa1e87e41f571124a22c3b361c2c1"
 metafile = true
@@ -497,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
 hash = "f654610913c71707c677cc4f592eac8bf4bade51138692b6d78f994ccffb6ba1"
+metafile = true
+
+[[files]]
+file = "mods/switchy-proxy.pw.toml"
+hash = "dbb16d1aa1f7973e87f4a39c2fb9a7459d884b265819881190e7a351d7ab22ab"
 metafile = true
 
 [[files]]
