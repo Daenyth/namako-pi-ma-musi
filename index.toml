@@ -530,6 +530,11 @@ hash = "899a8fd91b062153a42a7a37a86e48bc455c28b926f2a0bef6a5c6b4313091ef"
 metafile = true
 
 [[files]]
+file = "mods/telo-pakola.pw.toml"
+hash = "040c18c20c8d9124db8c2679799cd7871497410ab4d4332a445b6be9f563ca56"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "26d8e1910d9054354b5e8c55c97167a76a0266fe73279aa302d35d1c9a0aaf9b"
 metafile = true
