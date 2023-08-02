@@ -500,6 +500,11 @@ hash = "bcbe89f2483562b3ab00294f533f6f1a5f4eafbe1ae2e54eedaa0bce4c4c7a33"
 metafile = true
 
 [[files]]
+file = "mods/switchykit.pw.toml"
+hash = "899a8fd91b062153a42a7a37a86e48bc455c28b926f2a0bef6a5c6b4313091ef"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "26d8e1910d9054354b5e8c55c97167a76a0266fe73279aa302d35d1c9a0aaf9b"
 metafile = true
