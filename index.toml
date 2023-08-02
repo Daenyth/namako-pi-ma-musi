@@ -495,6 +495,11 @@ hash = "8dab797219b7e7127e1324a3e8f929d22017e90373c68aa8afda970f33b838dc"
 metafile = true
 
 [[files]]
+file = "mods/switchy-inventories.pw.toml"
+hash = "f654610913c71707c677cc4f592eac8bf4bade51138692b6d78f994ccffb6ba1"
+metafile = true
+
+[[files]]
 file = "mods/switchy.pw.toml"
 hash = "bcbe89f2483562b3ab00294f533f6f1a5f4eafbe1ae2e54eedaa0bce4c4c7a33"
 metafile = true
