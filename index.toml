@@ -120,6 +120,11 @@ hash = "1458e4909039fdd41aeb1d7cc7c82fa6def77a48b29ab45f99a9248e05f1e8e1"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "7646dd860da502a19dea0fbdd470872da374d33b0e66359fe2ed9c91a3006c0b"
+metafile = true
+
+[[files]]
 file = "mods/crying-portals.pw.toml"
 hash = "aecf4a777a96228ca676df16f20ec813982775c200726e440c20308cc4839ad9"
 metafile = true
@@ -202,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
 
 [[files]]
