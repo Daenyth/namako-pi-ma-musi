@@ -160,6 +160,11 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
+file = "mods/editsign.pw.toml"
+hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "a33666d7424e8a534e9b7bf77da1d19b5091c6a4e974811f86833677a907dbbd"
 metafile = true
