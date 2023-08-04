@@ -550,6 +550,11 @@ hash = "040c18c20c8d9124db8c2679799cd7871497410ab4d4332a445b6be9f563ca56"
 metafile = true
 
 [[files]]
+file = "mods/tinkerers-smithing.pw.toml"
+hash = "3879d536da58c50ccca8951216d9d393331b08f75071d36f5d6a478f2069c744"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "26d8e1910d9054354b5e8c55c97167a76a0266fe73279aa302d35d1c9a0aaf9b"
 metafile = true
