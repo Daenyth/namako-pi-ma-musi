@@ -65,6 +65,11 @@ hash = "4023debbe53b41b1326ebbd477c5bafb97c3d03823cea379ee86009a801d5bf5"
 metafile = true
 
 [[files]]
+file = "mods/chickensshed.pw.toml"
+hash = "8bc786e062df82909ca65960da8c49469a70638587f28edbde548c47b94e1126"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
 metafile = true
