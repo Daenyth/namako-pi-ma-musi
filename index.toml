@@ -240,11 +240,6 @@ hash = "d367da4333917c55330390469e9fd620fbefbc6efe54bbf1845863cdcab5e00d"
 metafile = true
 
 [[files]]
-file = "mods/gui-compass.pw.toml"
-hash = "45a899933d633974e88c99dee2babbfac72acf4cb0c708fb741cc5e6c6f9906c"
-metafile = true
-
-[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
 metafile = true
