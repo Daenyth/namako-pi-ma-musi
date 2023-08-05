@@ -603,3 +603,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "4b502ea7f185b192b42c890e30b181246b341b1fcf4bd626b68c07de3cb46b19"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "8c7524e3d6689b7c937f5f6a44608c7ad07625b700253c3167885e0d2f558785"
