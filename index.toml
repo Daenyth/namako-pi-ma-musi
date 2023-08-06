@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "bcbe89f2483562b3ab00294f533f6f1a5f4eafbe1ae2e54eedaa0bce4c4c7a33"
+hash = "83eb3d5bad961e193f6a6339af3fc6ce18756e07341c96d14887331179f50c25"
 metafile = true
 
 [[files]]
