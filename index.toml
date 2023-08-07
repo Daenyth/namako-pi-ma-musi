@@ -5,6 +5,10 @@ file = "README.md"
 hash = "6c73e0ab724e9de0adfe44912b43557570c2bc9123854acf397736ac7c0d5a10"
 
 [[files]]
+file = "config/minelp.json"
+hash = "9f56866164c91a552f11dcba7097e2e184c5ad9b606f0cf2a5a73d080fc6b334"
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "a676b0b14ed4ef17d47b7c073d48b2a0ed0284d27f09a6665098d43b66ccc5a3"
 metafile = true
@@ -352,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+metafile = true
+
+[[files]]
+file = "mods/mine-little-pony.pw.toml"
+hash = "839816ce07c7cb38170e8be83a43bf1f4ddc439c3695da2a144b3d1017daaf9c"
 metafile = true
 
 [[files]]
