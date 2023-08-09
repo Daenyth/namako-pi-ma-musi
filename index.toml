@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/maple.pw.toml"
-hash = "ebf4514094e456980ef0d43eb928a8340c6bb701916f494b3c2432fe3b452917"
+hash = "fe68e927af485140b326b2d8733de401534c66b577b09d0b1e8bdf2fa3343abc"
 metafile = true
 
 [[files]]

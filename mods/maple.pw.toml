@@ -1,13 +1,13 @@
 name = "Maple"
-filename = "maple-1.19.2-1.0.0-Beta2.jar"
+filename = "maple-1.19.2-1.0.0-Beta3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/f72LiOZm/versions/Y3s6AwrB/maple-1.19.2-1.0.0-Beta2.jar"
+url = "https://cdn.modrinth.com/data/f72LiOZm/versions/yxnii7R0/maple-1.19.2-1.0.0-Beta3.jar"
 hash-format = "sha1"
-hash = "f0a715d16a0eabd74c6ee8157254fadc06223d27"
+hash = "bf4282108cf8d34c1d5879cfd356b22971f97233"
 
 [update]
 [update.modrinth]
 mod-id = "f72LiOZm"
-version = "Y3s6AwrB"
+version = "yxnii7R0"
