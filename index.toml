@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "6c73e0ab724e9de0adfe44912b43557570c2bc9123854acf397736ac7c0d5a10"
-
-[[files]]
 file = "config/minelp.json"
 hash = "9f56866164c91a552f11dcba7097e2e184c5ad9b606f0cf2a5a73d080fc6b334"
 
