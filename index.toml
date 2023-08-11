@@ -469,11 +469,6 @@ hash = "253d24d518bf1c952361a25e91d1c80d0c30f83a47c8a94a05bdf8d51a6e97a9"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "39bced159e83bc8b6f4a7707cd51ee7307417e45c7c1eb3859750ff9550498ae"
-metafile = true
-
-[[files]]
 file = "mods/sdlink.pw.toml"
 hash = "66d8149059c590665d778d8bda09e4344a9307ca391976d43b9ae868b4ed760d"
 metafile = true
