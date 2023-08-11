@@ -239,6 +239,11 @@ hash = "ed475ccacc9fd35f5240d886ba3bd926affe58159711a19a799ee37ae3fda805"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "2f3d78980ca33ab11a46413f80bcd53f7d14245759006a158b05da6d2ebee63a"
+metafile = true
+
+[[files]]
 file = "mods/gui-clock.pw.toml"
 hash = "d367da4333917c55330390469e9fd620fbefbc6efe54bbf1845863cdcab5e00d"
 metafile = true
