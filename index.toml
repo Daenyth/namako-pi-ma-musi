@@ -5,6 +5,10 @@ file = "config/minelp.json"
 hash = "9f56866164c91a552f11dcba7097e2e184c5ad9b606f0cf2a5a73d080fc6b334"
 
 [[files]]
+file = "global_packs/required_data/CPlusCobbledAndSmoothChanges.zip"
+hash = "c0946bed7e86cab95ee3cebcd013b087f21ad5798bc2ce26a2de26cab875413d"
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "a676b0b14ed4ef17d47b7c073d48b2a0ed0284d27f09a6665098d43b66ccc5a3"
 metafile = true
@@ -102,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "a206bc693d41eb72f431abfc5d4556f9e9bf7f0bb6237224b750df85aeddd434"
+metafile = true
+
+[[files]]
+file = "mods/consistencyplus.pw.toml"
+hash = "9f8eb4c7de8c63a70721881bf949c022e3362d951230fa88bd11d0dba6e1d8f6"
 metafile = true
 
 [[files]]
