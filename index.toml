@@ -340,11 +340,6 @@ hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
-file = "mods/maple.pw.toml"
-hash = "fe68e927af485140b326b2d8733de401534c66b577b09d0b1e8bdf2fa3343abc"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
