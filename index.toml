@@ -509,6 +509,11 @@ hash = "3abe75fd690b76a160320df05906397a7bf2091ee600f4f825127c5b6f5d05a1"
 metafile = true
 
 [[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "daeec6e32a564883d796749c66e372463b2ecadf45d95e7b05f4e984cda80d91"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "70da594f4eadb175c7eedd58ec67caeffb71ac5fc8c503fcddf04e545e78e590"
 metafile = true
