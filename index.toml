@@ -269,6 +269,11 @@ hash = "d367da4333917c55330390469e9fd620fbefbc6efe54bbf1845863cdcab5e00d"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "b92f07d5a77d6dfff1a693dae256925da90483633835a4c307c95d28a12f372c"
+metafile = true
+
+[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
 metafile = true
