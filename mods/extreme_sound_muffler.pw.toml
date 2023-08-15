@@ -3,11 +3,11 @@ filename = "extremesoundmuffler-3.38-fabric-1.19.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/MOqgPKyW/extremesoundmuffler-3.38-fabric-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/3JoAFc8X/extremesoundmuffler-3.38-fabric-1.19.2.jar"
 hash-format = "sha1"
-hash = "6c769151b936264b15e4254bf7cf0b7f6ff41d61"
+hash = "5c225f3753468881267682b29c2dd065a73c64b0"
 
 [update]
 [update.modrinth]
 mod-id = "5IIKsxiL"
-version = "MOqgPKyW"
+version = "3JoAFc8X"
