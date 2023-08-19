@@ -166,6 +166,11 @@ hash = "aecf4a777a96228ca676df16f20ec813982775c200726e440c20308cc4839ad9"
 metafile = true
 
 [[files]]
+file = "mods/ctm-refabricated.pw.toml"
+hash = "033a78f711ea48ae5d425fc60e1f1776106e380de6f24e9376197b12eebba898"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "ec0f3f834a3387266d9b8fe83112e4ce802ec6926f196e6b598dc1bf7e65c393"
 metafile = true
