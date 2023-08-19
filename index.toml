@@ -9,6 +9,18 @@ file = "global_packs/required_data/CPlusCobbledAndSmoothChanges.zip"
 hash = "c0946bed7e86cab95ee3cebcd013b087f21ad5798bc2ce26a2de26cab875413d"
 
 [[files]]
+file = "global_packs/required_data/moli_soweli_ala/data/moli_soweli_ala/recipes/leather_from_oak.json"
+hash = "53e5b42caeb460f13cc069a78bf4c61bb4fd676e3e18757d5efa871c6fb0d774"
+
+[[files]]
+file = "global_packs/required_data/moli_soweli_ala/data/moli_soweli_ala/recipes/leather_from_zinc.json"
+hash = "efb96e8ff88b9cf1048e4d5584a12d6d3015a4833006307f0925051a66cf6eb9"
+
+[[files]]
+file = "global_packs/required_data/moli_soweli_ala/pack.mcmeta"
+hash = "a89785eb91cb2a58f747745482b0c4bf725b167a328a67988407fffe5cbc41ab"
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "a676b0b14ed4ef17d47b7c073d48b2a0ed0284d27f09a6665098d43b66ccc5a3"
 metafile = true

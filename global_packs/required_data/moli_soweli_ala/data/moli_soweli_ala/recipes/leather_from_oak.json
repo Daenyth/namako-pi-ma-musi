@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 0.01,
+  "ingredients": [
+    {
+      "item": "farmersdelight:canvas"
+    },
+    {
+      "item": "farmersdelight:canvas"
+    },
+    {
+      "item": "minecraft:oak_leaves"
+    },
+    {
+      "item": "minecraft:oak_leaves"
+    },
+    {
+      "item": "minecraft:oak_leaves"
+    },
+    {
+      "item": "minecraft:oak_leaves"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "minecraft:leather"
+  }
+}
