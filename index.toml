@@ -436,6 +436,11 @@ hash = "a7fabbd21e892f8cd3a0e95f1b9afffbad5eee850332dc1b11fb943717b6304a"
 metafile = true
 
 [[files]]
+file = "mods/pathunderfencegates.pw.toml"
+hash = "289203f79c410d65e441a5fb5dcf3db63a96cae7559b2405c8f04c36f1b4e030"
+metafile = true
+
+[[files]]
 file = "mods/phantom-redux.pw.toml"
 hash = "477697ed1df090a2b3c9e9b6aa55c8797f880dee16e047704c7817ae73a6dea3"
 metafile = true
