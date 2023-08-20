@@ -131,6 +131,11 @@ hash = "51ac305aa5338daa92562c574fbf38f79cc3cc789eb390d34e7a1aed2ccee734"
 metafile = true
 
 [[files]]
+file = "mods/compass-commands.pw.toml"
+hash = "221bc6df84e91b1f45f3ad23bf3c4a2ecf1a97aedbbd556783351c35c3f1bab2"
+metafile = true
+
+[[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "a206bc693d41eb72f431abfc5d4556f9e9bf7f0bb6237224b750df85aeddd434"
 metafile = true
