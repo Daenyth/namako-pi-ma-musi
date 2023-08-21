@@ -336,11 +336,6 @@ hash = "943432a0cef972de0e65eb7fa21634100f98de17b3f644b7ff8a8428ab9d17c0"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorting.pw.toml"
-hash = "9ec7fac40bbe6f5e496993422b10b9df982cbf9ad5f8631f1070476cbf20b5fe"
-metafile = true
-
-[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "cdc6994dedc82cf7807f6afbdde9000cf11841c174008b2aad20f62d9b0b08c7"
 metafile = true
