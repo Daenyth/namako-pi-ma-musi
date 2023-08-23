@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "a5a1846c9ae7af5e3f2d7c331a0d9936f2ae666ea640bc21be3d339055475ab2"
+hash = "77cc38e199f843cacd02df78683d79a2b5fdc636c9bef5c43e9c35ab46977803"
 metafile = true
 
 [[files]]
