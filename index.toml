@@ -582,12 +582,12 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
-hash = "42e53f3f3723708716cdc6b30fd0125546b5a00c92e1334611fde2d4d2bd731f"
+hash = "1084bc8dcf5a209cbec1c4bc95154018da7f14ad95711ea1511d4eb2d9f6127f"
 metafile = true
 
 [[files]]
 file = "mods/switchy-proxy.pw.toml"
-hash = "81435959abd6b38b237c255de5313e9679da47d1c84ccdcb0ec30332198431d0"
+hash = "5f770e57e77d265a780c5c5c3fda8d3a99cdccdd7d1dcaa9cfefbac1fbeb957c"
 metafile = true
 
 [[files]]
@@ -597,12 +597,12 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-teleport.pw.toml"
-hash = "45cfb1774eee4ece0713fa6351538bb20f6d380a8caa33cc354af825c77f2765"
+hash = "d6d03845bac41aed6b0258e0ff96007cfc647177970ebeb380589934f5f63b7c"
 metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "e306001c7355c8902f458c6fdd5e8c572de61b9171c77bbbb2fd46e4cae35e90"
+hash = "296efbfc6ee31a1f1bfdcb8734834153392b9cdf9254b027fcfa2dcd4e809bb7"
 metafile = true
 
 [[files]]
